@@ -1,0 +1,3 @@
+../Core/lib/sbus/sbus.c:13:6:formatSBUSData	1
+../Core/lib/sbus/sbus.c:42:6:sendSBUSData	2
+../Core/lib/sbus/sbus.c:49:6:sendSbusChannels	1
